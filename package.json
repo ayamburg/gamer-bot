@@ -1,0 +1,23 @@
+{
+  "name": "gamer-bot",
+  "version": "1.0.0",
+  "description": "A bot for sending anonymous discord messages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayamburg/gamer-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayamburg/gamer-bot/issues"
+  },
+  "homepage": "https://github.com/ayamburg/gamer-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
+}
